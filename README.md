@@ -17,7 +17,7 @@
     ./og-uploadDown
 
 ## 4.效果展示
-    ![erder](./2.png)
+![erder](./2.png)
 
 ## 5.日志:
   分片 1 上传成功！交易哈希：0xe31d3bb1b1a7e79db7f8e16615b5ee8e0c6eefbe1f8a2103c930d4b1b4081e5a，根哈希：0x779df4fb5704bce50abcfc17d12f0545b94b70e10cb1d99ec62549172cffdfb
